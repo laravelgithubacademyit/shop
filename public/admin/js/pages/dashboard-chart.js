@@ -120,20 +120,20 @@ var chart = AmCharts.makeChart("chartdiv1", {
         "title": "Currency Value"
     }],
     "graphs": [{
-        "balloonText": "<img src='http://html-templates.multipurposethemes.com/bootstrap-4/admin/Superieur-admin/images/neo.png' style='vertical-align:bottom; margin-right: 10px; width:28px; height:21px;'><span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+        "balloonText": "<img src='http://html-templates.multipurposethemes.com/bootstrap-4/Admin/Superieur-Admin/images/neo.png' style='vertical-align:bottom; margin-right: 10px; width:28px; height:21px;'><span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
         "fillAlphas": 0.6,
         "hidden": true,
         "lineAlpha": 0.4,
         "title": "NEO",
         "valueField": "cars"
     }, {
-        "balloonText": "<img src='http://html-templates.multipurposethemes.com/bootstrap-4/admin/Superieur-admin/images/ltc.png' style='vertical-align:bottom; margin-right: 10px; width:28px; height:21px;'><span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+        "balloonText": "<img src='http://html-templates.multipurposethemes.com/bootstrap-4/Admin/Superieur-Admin/images/ltc.png' style='vertical-align:bottom; margin-right: 10px; width:28px; height:21px;'><span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
         "fillAlphas": 0.6,
         "lineAlpha": 0.4,
         "title": "LTC",
         "valueField": "motorcycles"
     }, {
-        "balloonText": "<img src='http://html-templates.multipurposethemes.com/bootstrap-4/admin/Superieur-admin/images/btc.png' style='vertical-align:bottom; margin-right: 10px; width:28px; height:21px;'><span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
+        "balloonText": "<img src='http://html-templates.multipurposethemes.com/bootstrap-4/Admin/Superieur-Admin/images/btc.png' style='vertical-align:bottom; margin-right: 10px; width:28px; height:21px;'><span style='font-size:14px; color:#000000;'><b>[[value]]</b></span>",
         "fillAlphas": 0.6,
         "lineAlpha": 0.4,
         "title": "BTC",
@@ -178,7 +178,7 @@ var chart = AmCharts.makeChart("chartdiv1", {
     	"enabled": true
      }
 });
-	
+
 
 
 //------------echarts
@@ -231,6 +231,6 @@ var chart = AmCharts.makeChart("chartdiv1", {
 
 
 
-                
+
 
 
