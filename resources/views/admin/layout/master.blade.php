@@ -50,13 +50,13 @@
         <a href="index.html" class="logo">
             <!-- mini logo -->
             <div class="logo-mini">
-                <span class="light-logo"><img src="../images/logo-light.png" alt="logo"></span>
-                <span class="dark-logo"><img src="../images/logo-dark.png" alt="logo"></span>
+                <span class="light-logo"><img src="/admin/images/logo-light.png" alt="logo"></span>
+                <span class="dark-logo"><img src="/admin/images/logo-dark.png" alt="logo"></span>
             </div>
             <!-- logo-->
             <div class="logo-lg">
-                <span class="light-logo"><img src="../images/logo-light-text.png" alt="logo"></span>
-                <span class="dark-logo"><img src="../images/logo-dark-text.png" alt="logo"></span>
+                <span class="light-logo"><img src="/admin/images/logo-light-text.png" alt="logo"></span>
+                <span class="dark-logo"><img src="/admin/images/logo-dark-text.png" alt="logo"></span>
             </div>
         </a>
         <!-- Header Navbar -->
@@ -79,13 +79,13 @@
                     <!-- User Account-->
                     <li class="dropdown user user-menu">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                            <img src="../images/avatar/7.jpg" class="user-image rounded-circle" alt="User Image">
+                            <img src="/admin/images/avatar/7.jpg" class="user-image rounded-circle" alt="User Image">
                         </a>
                         <ul class="dropdown-menu animated flipInY">
                             <!-- User image -->
                             <li class="user-header bg-img" style="background-image: url(../images/user-info.jpg)" data-overlay="3">
                                 <div class="flexbox align-self-center">
-                                    <img src="../images/avatar/7.jpg" class="float-left rounded-circle" alt="User Image">
+                                    <img src="/admin/images/avatar/7.jpg" class="float-left rounded-circle" alt="User Image">
                                     <h4 class="user-name align-self-center">
                                         <span>Samuel Brus</span>
                                         <small>samuel@gmail.com</small>
@@ -133,7 +133,7 @@
                                     <li><!-- start message -->
                                         <a href="#">
                                             <div class="pull-left">
-                                                <img src="../images/user2-160x160.jpg" class="rounded-circle" alt="User Image">
+                                                <img src="/admin/images/user2-160x160.jpg" class="rounded-circle" alt="User Image">
                                             </div>
                                             <div class="mail-contnet">
                                                 <h4>
@@ -148,7 +148,7 @@
                                     <li>
                                         <a href="#">
                                             <div class="pull-left">
-                                                <img src="../images/user3-128x128.jpg" class="rounded-circle" alt="User Image">
+                                                <img src="/admin/images/user3-128x128.jpg" class="rounded-circle" alt="User Image">
                                             </div>
                                             <div class="mail-contnet">
                                                 <h4>
@@ -162,7 +162,7 @@
                                     <li>
                                         <a href="#">
                                             <div class="pull-left">
-                                                <img src="../images/user4-128x128.jpg" class="rounded-circle" alt="User Image">
+                                                <img src="/admin/images/user4-128x128.jpg" class="rounded-circle" alt="User Image">
                                             </div>
                                             <div class="mail-contnet">
                                                 <h4>
@@ -176,7 +176,7 @@
                                     <li>
                                         <a href="#">
                                             <div class="pull-left">
-                                                <img src="../images/user3-128x128.jpg" class="rounded-circle" alt="User Image">
+                                                <img src="/admin/images/user3-128x128.jpg" class="rounded-circle" alt="User Image">
                                             </div>
                                             <div class="mail-contnet">
                                                 <h4>
@@ -190,7 +190,7 @@
                                     <li>
                                         <a href="#">
                                             <div class="pull-left">
-                                                <img src="../images/user4-128x128.jpg" class="rounded-circle" alt="User Image">
+                                                <img src="/admin/images/user4-128x128.jpg" class="rounded-circle" alt="User Image">
                                             </div>
                                             <div class="mail-contnet">
                                                 <h4>
@@ -408,7 +408,7 @@
             <ul class="sidebar-menu" data-widget="tree">
                 <li class="user-profile treeview">
                     <a href="index.html">
-                        <img src="../images/avatar/7.jpg" alt="user">
+                        <img src="/admin/images/avatar/7.jpg" alt="user">
                         <span>
 				<span class="d-block font-weight-600 font-size-16">Samuel Brus</span>
 				<span class="email-id">samuel@gmail.com</span>
@@ -427,89 +427,30 @@
                 </li>
                 <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>PERSONAL</li>
 
-                <li class="treeview active">
+                <li class="treeview">
                     <a href="#">
-                        <i class="mdi mdi-view-dashboard"></i>
-
-                        <span>Dashboard</span>
+                        <i class="mdi mdi-apps"></i>
+                        <span>کاربران</span>
                         <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
+                          <i class="fa fa-angle-right pull-right"></i>
+                        </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li class="active"><a href="index.html"><i class="mdi mdi-toggle-switch-off"></i>Main Dashboard</a></li>
-                        <li><a href="index-2.html"><i class="mdi mdi-toggle-switch-off"></i>e-Commerce Dashboard</a></li>
-                        <li><a href="index-3.html"><i class="mdi mdi-toggle-switch-off"></i>Cryptocurrency</a></li>
-                        <li><a href="index-4.html"><i class="mdi mdi-toggle-switch-off"></i>Analytics</a></li>
-                        <li><a href="index-5.html"><i class="mdi mdi-toggle-switch-off"></i>Hospital</a></li>
-                        <li><a href="index-6.html"><i class="mdi mdi-toggle-switch-off"></i>Support System</a></li>
-                        <li><a href="index-7.html"><i class="mdi mdi-toggle-switch-off"></i>Sales Report</a></li>
-                        <li><a href="index-8.html"><i class="mdi mdi-toggle-switch-off"></i>Music</a></li>
-                        <li><a href="index-9.html"><i class="mdi mdi-toggle-switch-off"></i>Material</a></li>
+                        <li><a href="{{route('users.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
                     </ul>
                 </li>
 
                 <li class="treeview">
                     <a href="#">
-                        <i class="mdi mdi-content-copy"></i>
-                        <span>Layout Options</span>
+                        <i class="mdi mdi-apps"></i>
+                        <span>نقش ها</span>
                         <span class="pull-right-container">
               <i class="fa fa-angle-right pull-right"></i>
             </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="pages/layout_boxed.html"><i class="mdi mdi-toggle-switch-off"></i>Boxed</a></li>
-                        <li><a href="pages/layout_fixed.html"><i class="mdi mdi-toggle-switch-off"></i>Fixed</a></li>
-                        <li><a href="pages/layout_collapsed_sidebar.html"><i class="mdi mdi-toggle-switch-off"></i>Mini Sidebar</a></li>
-                    </ul>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-tune-vertical"></i>
-                        <span>Page Layouts </span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/page_layout_inner_left_sidebar.html"><i class="mdi mdi-toggle-switch-off"></i>Inner Left Sidebar </a></li>
-                        <li><a href="pages/page_layout_inner_right_sidebar.html"><i class="mdi mdi-toggle-switch-off"></i>Inner Right Sidebar </a></li>
-                        <li><a href="pages/page_layout_inner_fixed_left_sidebar.html"><i class="mdi mdi-toggle-switch-off"></i>Inner Fixed Left Sidebar </a></li>
-                        <li><a href="pages/page_layout_inner_fixed_right_sidebar.html"><i class="mdi mdi-toggle-switch-off"></i>Inner Fixed Right Sidebar </a></li>
-                    </ul>
-                </li>
-
-
-                <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>APPS</li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-mailbox"></i> <span>Mailbox</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/mailbox_inbox.html"><i class="mdi mdi-toggle-switch-off"></i>Inbox</a></li>
-                        <li><a href="pages/mailbox_compose.html"><i class="mdi mdi-toggle-switch-off"></i>Compose</a></li>
-                        <li><a href="pages/mailbox_read_mail.html"><i class="mdi mdi-toggle-switch-off"></i>Read</a></li>
-                    </ul>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-contacts"></i>
-                        <span>Contact</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/contact_app_chat.html"><i class="mdi mdi-toggle-switch-off"></i>Chat app</a></li>
-                        <li><a href="pages/contact_app.html"><i class="mdi mdi-toggle-switch-off"></i>Contact / Employee</a></li>
-                        <li><a href="pages/contact_userlist_grid.html"><i class="mdi mdi-toggle-switch-off"></i>Userlist Grid</a></li>
-                        <li><a href="pages/contact_userlist.html"><i class="mdi mdi-toggle-switch-off"></i>Userlist</a></li>
+                        <li><a href="{{route('roles.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
+                        <li><a href="{{route('roles.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
                     </ul>
                 </li>
 
@@ -524,338 +465,92 @@
                     <ul class="treeview-menu">
                         <li><a href="{{route('categories.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
                         <li><a href="{{route('categories.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
-                    </ul>
-                </li>
-
-
-                <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>UI</li>
-
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-widgets"></i>
-                        <span>UI Elements</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/ui_badges.html"><i class="mdi mdi-toggle-switch-off"></i>Badges</a></li>
-                        <li><a href="pages/ui_border_utilities.html"><i class="mdi mdi-toggle-switch-off"></i>Border</a></li>
-                        <li><a href="pages/ui_buttons.html"><i class="mdi mdi-toggle-switch-off"></i>Buttons</a></li>
-                        <li><a href="pages/ui_color_utilities.html"><i class="mdi mdi-toggle-switch-off"></i>Color</a></li>
-                        <li><a href="pages/ui_dropdown.html"><i class="mdi mdi-toggle-switch-off"></i>Dropdown</a></li>
-                        <li><a href="pages/ui_dropdown_grid.html"><i class="mdi mdi-toggle-switch-off"></i>Dropdown Grid</a></li>
-                        <li><a href="pages/ui_typography.html"><i class="mdi mdi-toggle-switch-off"></i>Typography</a></li>
-                        <li><a href="pages/ui_progress_bars.html"><i class="mdi mdi-toggle-switch-off"></i>Progress Bars</a></li>
-                        <li><a href="pages/ui_grid.html"><i class="mdi mdi-toggle-switch-off"></i>Grid</a></li>
-                        <li><a href="pages/ui_ribbons.html"><i class="mdi mdi-toggle-switch-off"></i>Ribbons</a></li>
-                        <li><a href="pages/ui_sliders.html"><i class="mdi mdi-toggle-switch-off"></i>Sliders</a></li>
-                        <li><a href="pages/ui_tab.html"><i class="mdi mdi-toggle-switch-off"></i>Tabs</a></li>
-                        <li><a href="pages/ui_timeline.html"><i class="mdi mdi-toggle-switch-off"></i>Timeline</a></li>
-                        <li><a href="pages/ui_timeline_horizontal.html"><i class="mdi mdi-toggle-switch-off"></i>Horizontal Timeline</a></li>
+                        <li><a href="{{route('featuredCategory.create')}}"><i class="mdi mdi-toggle-switch-off"></i>انتخاب دسته بندی ویژه</a></li>
                     </ul>
                 </li>
 
                 <li class="treeview">
                     <a href="#">
-                        <i class="mdi mdi-chemical-weapon"></i>
-                        <span>Icons</span>
+                        <i class="mdi mdi-apps"></i>
+                        <span>برند ها</span>
                         <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
+                          <i class="fa fa-angle-right pull-right"></i>
+                        </span>
+                                </a>
+                                <ul class="treeview-menu">
+                                    <li><a href="{{route('brands.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
+                                    <li><a href="{{route('brands.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
+                                </ul>
+                            </li>
+
+
+                <li class="treeview">
+                    <a href="#">
+                        <i class="mdi mdi-apps"></i>
+                        <span>گروه مشخصات</span>
+                        <span class="pull-right-container">
+                          <i class="fa fa-angle-right pull-right"></i>
+                        </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="pages/icons_fontawesome.html"><i class="mdi mdi-toggle-switch-off"></i>Font Awesome</a></li>
-                        <li><a href="pages/icons_glyphicons.html"><i class="mdi mdi-toggle-switch-off"></i>Glyphicons</a></li>
-                        <li><a href="pages/icons_material.html"><i class="mdi mdi-toggle-switch-off"></i>Material Icons</a></li>
-                        <li><a href="pages/icons_themify.html"><i class="mdi mdi-toggle-switch-off"></i>Themify Icons</a></li>
-                        <li><a href="pages/icons_simpleline.html"><i class="mdi mdi-toggle-switch-off"></i>Simple Line Icons</a></li>
-                        <li><a href="pages/icons_cryptocoins.html"><i class="mdi mdi-toggle-switch-off"></i>Cryptocoins Icons</a></li>
+                        <li><a href="{{route('propertyGroups.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
+                        <li><a href="{{route('propertyGroups.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
                     </ul>
                 </li>
 
                 <li class="treeview">
                     <a href="#">
-                        <i class="mdi mdi-cube"></i>
-                        <span>Components</span>
+                        <i class="mdi mdi-apps"></i>
+                        <span>مشخصات</span>
                         <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
+                          <i class="fa fa-angle-right pull-right"></i>
+                        </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="pages/component_bootstrap_switch.html"><i class="mdi mdi-toggle-switch-off"></i>Bootstrap Switch</a></li>
-                        <li><a href="pages/component_date_paginator.html"><i class="mdi mdi-toggle-switch-off"></i>Date Paginator</a></li>
-                        <li><a href="pages/component_media_advanced.html"><i class="mdi mdi-toggle-switch-off"></i>Advanced Medias</a></li>
-                        <li><a href="pages/component_modals.html"><i class="mdi mdi-toggle-switch-off"></i>Modals</a></li>
-                        <li><a href="pages/component_nestable.html"><i class="mdi mdi-toggle-switch-off"></i>Nestable</a></li>
-                        <li><a href="pages/component_notification.html"><i class="mdi mdi-toggle-switch-off"></i>Notification</a></li>
-                        <li><a href="pages/component_portlet_draggable.html"><i class="mdi mdi-toggle-switch-off"></i>Draggable Portlets</a></li>
-                        <li><a href="pages/component_sweatalert.html"><i class="mdi mdi-toggle-switch-off"></i>Sweet Alert</a></li>
+                        <li><a href="{{route('properties.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
+                        <li><a href="{{route('properties.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
                     </ul>
                 </li>
 
                 <li class="treeview">
                     <a href="#">
-                        <i class="mdi mdi-checkerboard"></i>
-                        <span>Box Cards</span>
+                        <i class="mdi mdi-apps"></i>
+                        <span>محصولات</span>
                         <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
+                          <i class="fa fa-angle-right pull-right"></i>
+                        </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="pages/box_cards.html"><i class="mdi mdi-toggle-switch-off"></i>User Card</a></li>
-                        <li><a href="pages/box_advanced.html"><i class="mdi mdi-toggle-switch-off"></i>Advanced Card</a></li>
-                        <li><a href="pages/box_basic.html"><i class="mdi mdi-toggle-switch-off"></i>Basic Card</a></li>
-                        <li><a href="pages/box_color.html"><i class="mdi mdi-toggle-switch-off"></i>Card Color</a></li>
-                        <li><a href="pages/box_group.html"><i class="mdi mdi-toggle-switch-off"></i>Card Group</a></li>
+                        <li><a href="{{route('products.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
+                        <li><a href="{{route('products.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
                     </ul>
                 </li>
 
                 <li class="treeview">
                     <a href="#">
-                        <i class="mdi mdi-waves"></i>
-                        <span>Widgets</span>
+                        <i class="mdi mdi-apps"></i>
+                        <span>کدهای تخفیف</span>
                         <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
+                          <i class="fa fa-angle-right pull-right"></i>
+                        </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="pages/widgets_blog.html"><i class="mdi mdi-toggle-switch-off"></i>Blog</a></li>
-                        <li><a href="pages/widgets_chart.html"><i class="mdi mdi-toggle-switch-off"></i>Chart</a></li>
-                        <li><a href="pages/widgets_list.html"><i class="mdi mdi-toggle-switch-off"></i>List</a></li>
-                        <li><a href="pages/widgets_social.html"><i class="mdi mdi-toggle-switch-off"></i>Social</a></li>
-                        <li><a href="pages/widgets_statistic.html"><i class="mdi mdi-toggle-switch-off"></i>Statistic</a></li>
-                        <li><a href="pages/widgets_weather.html"><i class="mdi mdi-toggle-switch-off"></i>Weather</a></li>
-                        <li><a href="pages/widgets.html"><i class="mdi mdi-toggle-switch-off"></i>Widgets</a></li>
-                    </ul>
-                </li>
-
-
-                <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>FORMS And TABLES</li>
-
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-receipt"></i>
-                        <span>Forms</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/forms_advanced.html"><i class="mdi mdi-toggle-switch-off"></i>Advanced Elements</a></li>
-                        <li><a href="pages/forms_code_editor.html"><i class="mdi mdi-toggle-switch-off"></i>Code Editor</a></li>
-                        <li><a href="pages/forms_editor_markdown.html"><i class="mdi mdi-toggle-switch-off"></i>Markdown</a></li>
-                        <li><a href="pages/forms_editors.html"><i class="mdi mdi-toggle-switch-off"></i>Editors</a></li>
-                        <li><a href="pages/forms_validation.html"><i class="mdi mdi-toggle-switch-off"></i>Form Validation</a></li>
-                        <li><a href="pages/forms_wizard.html"><i class="mdi mdi-toggle-switch-off"></i>Form Wizard</a></li>
-                        <li><a href="pages/forms_general.html"><i class="mdi mdi-toggle-switch-off"></i>General Elements</a></li>
-                        <li><a href="pages/forms_mask.html"><i class="mdi mdi-toggle-switch-off"></i>Formatter</a></li>
-                        <li><a href="pages/forms_xeditable.html"><i class="mdi mdi-toggle-switch-off"></i>Xeditable Editor</a></li>
+                        <li><a href="{{route('offers.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
+                        <li><a href="{{route('offers.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
                     </ul>
                 </li>
 
                 <li class="treeview">
                     <a href="#">
-                        <i class="mdi mdi-table"></i>
-                        <span>Tables</span>
+                        <i class="mdi mdi-apps"></i>
+                        <span>اسلایدر</span>
                         <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
+                          <i class="fa fa-angle-right pull-right"></i>
+                        </span>
                     </a>
                     <ul class="treeview-menu">
-                        <li><a href="pages/tables_simple.html"><i class="mdi mdi-toggle-switch-off"></i>Simple tables</a></li>
-                        <li><a href="pages/tables_data.html"><i class="mdi mdi-toggle-switch-off"></i>Data tables</a></li>
-                        <li><a href="pages/tables_editable.html"><i class="mdi mdi-toggle-switch-off"></i>Editable Tables</a></li>
-                        <li><a href="pages/tables_color.html"><i class="mdi mdi-toggle-switch-off"></i>Table Color</a></li>
-                    </ul>
-                </li>
-
-
-                <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>CHARTS</li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-chart-bar"></i>
-                        <span>Chart</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/charts_chartjs.html"><i class="mdi mdi-toggle-switch-off"></i>ChartJS</a></li>
-                        <li><a href="pages/charts_flot.html"><i class="mdi mdi-toggle-switch-off"></i>Flot</a></li>
-                        <li><a href="pages/charts_inline.html"><i class="mdi mdi-toggle-switch-off"></i>Inline charts</a></li>
-                        <li><a href="pages/charts_morris.html"><i class="mdi mdi-toggle-switch-off"></i>Morris</a></li>
-                        <li><a href="pages/charts_peity.html"><i class="mdi mdi-toggle-switch-off"></i>Peity</a></li>
-                        <li><a href="pages/charts_chartist.html"><i class="mdi mdi-toggle-switch-off"></i>Chartist</a></li>
-                    </ul>
-                </li>
-
-
-                <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>EXTRA COMPONENTS</li>
-
-                <li>
-                    <a href="pages/email_index.html">
-                        <i class="mdi mdi-email"></i>
-                        <span>Emails</span>
-                    </a>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-map-marker"></i>
-                        <span>Map</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/map_google.html"><i class="mdi mdi-toggle-switch-off"></i>Google Map</a></li>
-                        <li><a href="pages/map_vector.html"><i class="mdi mdi-toggle-switch-off"></i>Vector Map</a></li>
-                    </ul>
-                </li>
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-gradient"></i>
-                        <span>Extension</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/extension_fullscreen.html"><i class="mdi mdi-toggle-switch-off"></i>Fullscreen</a></li>
-                        <li><a href="pages/extension_pace.html"><i class="mdi mdi-toggle-switch-off"></i>Pace</a></li>
-                    </ul>
-                </li>
-
-
-                <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>SAMPLE PAGES</li>
-
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-cart-outline"></i>
-                        <span>Ecommerce Pages</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/ecommerce_products.html"><i class="mdi mdi-toggle-switch-off"></i>Products</a></li>
-                        <li><a href="pages/ecommerce_cart.html"><i class="mdi mdi-toggle-switch-off"></i>Products Cart</a></li>
-                        <li><a href="pages/ecommerce_products_edit.html"><i class="mdi mdi-toggle-switch-off"></i>Products Edit</a></li>
-                        <li><a href="pages/ecommerce_details.html"><i class="mdi mdi-toggle-switch-off"></i>Product Details</a></li>
-                        <li><a href="pages/ecommerce_orders.html"><i class="mdi mdi-toggle-switch-off"></i>Product Orders</a></li>
-                        <li><a href="pages/ecommerce_checkout.html"><i class="mdi mdi-toggle-switch-off"></i>Products Checkout</a></li>
-                    </ul>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-account-circle"></i>
-                        <span>Authentication</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/auth_login.html"><i class="mdi mdi-toggle-switch-off"></i>Login</a></li>
-                        <li><a href="pages/auth_login2.html"><i class="mdi mdi-toggle-switch-off"></i>Login 2</a></li>
-                        <li><a href="pages/auth_register.html"><i class="mdi mdi-toggle-switch-off"></i>Register</a></li>
-                        <li><a href="pages/auth_register2.html"><i class="mdi mdi-toggle-switch-off"></i>Register 2</a></li>
-                        <li><a href="pages/auth_lockscreen.html"><i class="mdi mdi-toggle-switch-off"></i>Lockscreen</a></li>
-                        <li><a href="pages/auth_user_pass.html"><i class="mdi mdi-toggle-switch-off"></i>Recover password</a></li>
-                    </ul>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-ungroup"></i>
-                        <span>Invoice</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/invoice.html"><i class="mdi mdi-toggle-switch-off"></i>Invoice</a></li>
-                        <li><a href="pages/invoicelist.html"><i class="mdi mdi-toggle-switch-off"></i>Invoice List</a></li>
-                    </ul>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-alert-box"></i>
-                        <span>Error Pages</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/error_400.html"><i class="mdi mdi-toggle-switch-off"></i>Error 400</a></li>
-                        <li><a href="pages/error_403.html"><i class="mdi mdi-toggle-switch-off"></i>Error 403</a></li>
-                        <li><a href="pages/error_404.html"><i class="mdi mdi-toggle-switch-off"></i>Error 404</a></li>
-                        <li><a href="pages/error_500.html"><i class="mdi mdi-toggle-switch-off"></i>Error 500</a></li>
-                        <li><a href="pages/error_503.html"><i class="mdi mdi-toggle-switch-off"></i>Error 503</a></li>
-                        <li><a href="pages/error_maintenance.html"><i class="mdi mdi-toggle-switch-off"></i>Maintenance</a></li>
-                    </ul>
-                </li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-file"></i>
-                        <span>Sample Pages</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="pages/sample_blank.html"><i class="mdi mdi-toggle-switch-off"></i>Blank</a></li>
-                        <li><a href="pages/sample_coming_soon.html"><i class="mdi mdi-toggle-switch-off"></i>Coming Soon</a></li>
-                        <li><a href="pages/sample_custom_scroll.html"><i class="mdi mdi-toggle-switch-off"></i>Custom Scrolls</a></li>
-                        <li><a href="pages/sample_faq.html"><i class="mdi mdi-toggle-switch-off"></i>FAQ</a></li>
-                        <li><a href="pages/sample_gallery.html"><i class="mdi mdi-toggle-switch-off"></i>Gallery</a></li>
-                        <li><a href="pages/sample_lightbox.html"><i class="mdi mdi-toggle-switch-off"></i>Lightbox Popup</a></li>
-                        <li><a href="pages/sample_pricing.html"><i class="mdi mdi-toggle-switch-off"></i>Pricing</a></li>
-                    </ul>
-                </li>
-
-
-                <li class="header nav-small-cap"><i class="mdi mdi-drag-horizontal mr-5"></i>EXTRA</li>
-
-                <li class="treeview">
-                    <a href="#">
-                        <i class="mdi mdi-notification-clear-all"></i>
-                        <span>Multilevel</span>
-                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                    </a>
-                    <ul class="treeview-menu">
-                        <li><a href="#">Level One</a></li>
-                        <li class="treeview">
-                            <a href="#">Level One
-                                <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                            </a>
-                            <ul class="treeview-menu">
-                                <li><a href="#">Level Two</a></li>
-                                <li class="treeview">
-                                    <a href="#">Level Two
-                                        <span class="pull-right-container">
-              <i class="fa fa-angle-right pull-right"></i>
-            </span>
-                                    </a>
-                                    <ul class="treeview-menu">
-                                        <li><a href="#">Level Three</a></li>
-                                        <li><a href="#">Level Three</a></li>
-                                    </ul>
-                                </li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Level One</a></li>
+                        <li><a href="{{route('sliders.create')}}"><i class="mdi mdi-toggle-switch-off"></i>ایجاد</a></li>
+                        <li><a href="{{route('sliders.index')}}"><i class="mdi mdi-toggle-switch-off"></i>لیست</a></li>
                     </ul>
                 </li>
 
@@ -902,6 +597,7 @@
 
         <!-- Main content -->
         <section class="content">
+            @include('admin.layout.notification')
             @yield('content')
             <!-- /.row -->
         </section>

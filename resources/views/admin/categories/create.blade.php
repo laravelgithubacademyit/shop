@@ -27,6 +27,19 @@
                         </div>
 
                         <div class="form-group">
+                            <label>انتخاب گروه ویژگی ها</label>
+                            <div class="row">
+                                @foreach($properties as $property)
+                                    <label class="col-sm-2">
+                                        <input style="opacity: 1 !important; position:static !important;" type="checkbox" name="properties[]" value="{{$property->id}}">{{$property->title}}
+                                    </label>
+                                @endforeach
+                            </div>
+                        </div>
+
+                        @include('admin.layout.errors')
+
+                        <div class="form-group">
                             <input type="submit" name="submin" id="submit" value="ثبت" class="btn btn-primary">
                         </div>
                     </form>
